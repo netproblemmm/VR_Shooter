@@ -1,1 +1,1 @@
-# VR_Shooter
+# VR_Shooter - shooter for virtual reality
